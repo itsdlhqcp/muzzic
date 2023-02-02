@@ -91,92 +91,103 @@ const songData = [
         id: uuidv4(),
     },
     {
-        title: "Naked Sunday",
-        artist: "CYGN",
+        title: "Dusk Till Dawn",
+        artist: "Sam Smith, Ali Gatie, Ruth B",
         coverUrl:
-            "https://chillhop.com/wp-content/uploads/2021/02/d12927eedcc2f5afba2ab049a4a1ea46c2266ae3-1024x1024.jpg",
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1675331531139images%20(2).jpeg?alt=media&token=ecea0644-0fa8-42c1-967e-a71d8b1c5599",
         thumbUrl:
-            "https://chillhop.com/wp-content/uploads/2021/02/d12927eedcc2f5afba2ab049a4a1ea46c2266ae3-150x150.jpg",
-        audio: "https://mp3.chillhop.com/serve.php/?mp3=14998",
-        palette: "magenta",
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1675331531139images%20(2).jpeg?alt=media&token=ecea0644-0fa8-42c1-967e-a71d8b1c5599",
+        audio: "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1675329067531Dusk%20Till%20Dawn(Mr-Jatt1.com).mp3?alt=media&token=d34323b9-d117-47d6-b816-f65b8cf9c5f8",
+        palette: "grey",
         id: uuidv4(),
     },
 
     {
-        title: "Caffeine",
-        artist: "Felty",
+        title: "Ghost",
+        artist: "Justin Bieber",
         coverUrl:
-            "https://chillhop.com/wp-content/uploads/2020/07/858b533ba20ff95bf5b401089b195d1a8cb43870-1024x1024.jpg",
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1675329783711images.jpeg?alt=media&token=6cc8c261-b20c-4bf9-9b53-c47bd1dcc3b4",
         thumbUrl:
-            "https://chillhop.com/wp-content/uploads/2020/07/858b533ba20ff95bf5b401089b195d1a8cb43870-150x150.jpg",
-        audio: "https://mp3.chillhop.com/serve.php/?mp3=9334",
-        palette: "blue",
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1675329783711images.jpeg?alt=media&token=6cc8c261-b20c-4bf9-9b53-c47bd1dcc3b4",
+        audio: "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1675330786702Ghost%20-%20Justin%20Bieber%20%5BLyrics%5D%20%20Charlie%20Puth%2C%20Shawn%20Mendes.mp3?alt=media&token=1bf9abcf-e1b5-4144-b9d3-502313138963",
+        palette: "darkgrey",
         id: uuidv4(),
     },
     {
-        title: "Dojo",
-        artist: "SwuM",
+        title: "Sigma rule",
+        artist: "Zedline Pagalworld",
         coverUrl:
-            "https://chillhop.com/wp-content/uploads/2020/04/35317644d6db24c3ca144619d03f2805fa702472-1024x1024.jpg",
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1675331210135images%20(1).jpeg?alt=media&token=c4c374f0-72a7-49b6-9e5e-0466633b97cd",
         thumbUrl:
-            "https://chillhop.com/wp-content/uploads/2020/04/35317644d6db24c3ca144619d03f2805fa702472-150x150.jpg",
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1675331210135images%20(1).jpeg?alt=media&token=c4c374f0-72a7-49b6-9e5e-0466633b97cd",
         audio: "https://mp3.chillhop.com/serve.php/?mp3=8002",
         palette: "teal",
         id: uuidv4(),
     },
     {
-        title: "Mozambique",
-        artist: "Comodo",
+        title: "Fairytale",
+        artist: " Alexander Rybak",
         coverUrl:
-            "https://chillhop.com/wp-content/uploads/2020/07/4b06cedf68f3f842d3a0fc13ae62564dec6056c8-1024x1024.jpg",
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1675340016272size_l.jpg?alt=media&token=81b7206c-2ba2-436f-a23a-99fd7760d0b2",
         thumbUrl:
-            "https://chillhop.com/wp-content/uploads/2020/07/4b06cedf68f3f842d3a0fc13ae62564dec6056c8-150x150.jpg",
-        audio: "https://mp3.chillhop.com/serve.php/?mp3=8985",
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1675340016272size_l.jpg?alt=media&token=81b7206c-2ba2-436f-a23a-99fd7760d0b2",
+        audio: "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1675340016272Fairy%20Tale(Mr-Jatt1.com).mp3?alt=media&token=477d1222-7821-4548-91b4-0f5991c23724",
+        palette: "cyan",
+        id: uuidv4(),
+    },
+    {
+        title: "Middle of the Night",
+        artist: "Elley Duhé",
+        coverUrl:
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1675340341062download%20(11).jpeg?alt=media&token=16f5cd47-c6d4-470a-84c5-1566e0a50537",
+        thumbUrl:
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1675340341062download%20(11).jpeg?alt=media&token=16f5cd47-c6d4-470a-84c5-1566e0a50537",
+        audio: "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1675340341062Elley_Duhe_-_Middle_Of_The_Night_(Jesusful.com).mp3?alt=media&token=bfdd6c7c-e49c-4837-a6a5-bcc05d9cc3ef",
         palette: "purple",
         id: uuidv4(),
     },
     {
-        title: "Rockaway 5pm",
-        artist: "auv",
+        title: "Nightcore",
+        artist: "Thomas, Steffen",
         coverUrl:
-            "https://chillhop.com/wp-content/uploads/2020/07/8ead77b24ce86e871c31691dec6a5983b9533db1-1024x1024.jpg",
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1675340907296download%20(12).jpeg?alt=media&token=88c2e826-925c-4d2c-9e58-cf43459c9ce8",
         thumbUrl:
-            "https://chillhop.com/wp-content/uploads/2020/07/8ead77b24ce86e871c31691dec6a5983b9533db1-150x150.jpg",
-        audio: "https://mp3.chillhop.com/serve.php/?mp3=9157",
-        palette: "yellow",
-        id: uuidv4(),
-    },
-    {
-        title: "Magenta Forever",
-        artist: "Aviino",
-        coverUrl:
-            "https://chillhop.com/wp-content/uploads/2020/10/23fdd99adc3e16abcb67b004ea3e748ebf433a49-1024x1024.jpg",
-        thumbUrl:
-            "https://chillhop.com/wp-content/uploads/2020/10/23fdd99adc3e16abcb67b004ea3e748ebf433a49-150x150.jpg",
-        audio: "https://mp3.chillhop.com/serve.php/?mp3=10458",
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1675340907296download%20(12).jpeg?alt=media&token=88c2e826-925c-4d2c-9e58-cf43459c9ce8",
+        audio: "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1675340907297black-box-nightmare-125251.mp3?alt=media&token=fd65d0a8-9f92-4fae-82d3-eeaeb63be529",
         palette: "pink",
         id: uuidv4(),
     },
     {
-        title: "Build",
-        artist: "Yasper, Louk",
+        title: "Another Nation",
+        artist: "Stella Chronopoulou",
         coverUrl:
-            "https://chillhop.com/wp-content/uploads/2020/07/f5170130ca62e18fb3928feb3d851f3f07f77e18-1024x1024.jpg",
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1675341672451download%20(14).jpeg?alt=media&token=e03eb610-1c90-4661-b5dc-918ee069d369",
         thumbUrl:
-            "https://chillhop.com/wp-content/uploads/2020/07/f5170130ca62e18fb3928feb3d851f3f07f77e18-150x150.jpg",
-        audio: "https://mp3.chillhop.com/serve.php/?mp3=7873",
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1675341672451download%20(14).jpeg?alt=media&token=e03eb610-1c90-4661-b5dc-918ee069d369",
+        audio: "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1675341672451Another%20Nation.mp3?alt=media&token=e7c29da9-620b-4fe4-8724-29aae1f514fb",
         palette: "orange",
         id: uuidv4(),
     },
     {
-        title: "Whale Call",
-        artist: "Saib",
+        title: "Unity",
+        artist: "Alen walker",
         coverUrl:
-            "https://chillhop.com/wp-content/uploads/2020/07/385d44fc6335bf676b30be524bcdfd7d640716a4-1024x1024.jpg",
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1675341208621download%20(13).jpeg?alt=media&token=f88cfe5f-8a87-4af6-b7d8-f12c8c148fb4",
         thumbUrl:
-            "https://chillhop.com/wp-content/uploads/2020/07/385d44fc6335bf676b30be524bcdfd7d640716a4-150x150.jpg",
-        audio: "https://mp3.chillhop.com/serve.php/?mp3=8099",
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1675341208621download%20(13).jpeg?alt=media&token=f88cfe5f-8a87-4af6-b7d8-f12c8c148fb4",
+        audio: "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1675341208622Unity---Alan-x-Walkers(PagalWorldl).mp3?alt=media&token=829042a9-ab27-4ea8-b902-eead8282b41b",
         palette: "cyan",
+        id: uuidv4(),
+    },
+    {
+        title: "League of Legends",
+        artist: "Bo Chen",
+        coverUrl:
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F16753426169721675342328625images%20(3)~2.jpeg?alt=media&token=695705aa-91e8-4200-8242-b151a61016f2",
+        thumbUrl:
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F16753426169721675342328625images%20(3)~2.jpeg?alt=media&token=695705aa-91e8-4200-8242-b151a61016f2",
+        audio: "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1675342328625League%20of%20Legends%20-%20War%20Song%20Remix%20%20No%20Copyright%20Sounds.mp3?alt=media&token=c4a81c85-8325-4adc-8e6d-05ff77d0a74c",
+        palette: "orange",
         id: uuidv4(),
     },
 ];
