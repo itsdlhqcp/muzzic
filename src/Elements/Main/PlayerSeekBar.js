@@ -26,7 +26,7 @@ function PlayerSeekBar({ songState, audioRef, setSongState }) {
                         0,
                         30,
                         0,
-                        colors[`${current}`]
+                        colors[`${currentPalette}`]
                     )}`,
                     background: `${gradients[`${currentPalette}`]}`,
                     width: `${(songState.elapsed / songState.duration) * 100}%`,
