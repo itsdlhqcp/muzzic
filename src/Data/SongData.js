@@ -2,6 +2,28 @@ import { v4 as uuidv4 } from "uuid";
 
 const songData = [
     {
+        title: "Alone",
+        artist: "Alan walker",
+        coverUrl:
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1676137335599alone.jpg?alt=media&token=4f67a7d4-fd0e-4d4b-a39d-189c17cf4e57",
+        thumbUrl:
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1676137335599alone.jpg?alt=media&token=4f67a7d4-fd0e-4d4b-a39d-189c17cf4e57",
+        audio: "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1676137335599Alan_Walker_Ava_Max_-_Alone_Pt_2_CeeNaija.com_.mp3?alt=media&token=792dc664-fccf-43b6-a830-1b215c83b349",
+        palette: "green",
+        id: uuidv4(),
+    },
+    {
+        title: "Khalouni",
+        artist: "singer Indila",
+        coverUrl:
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1676142043364download.jpg?alt=media&token=8769379d-6e9b-4370-a3bd-cd89b223c7bf",
+        thumbUrl:
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1676142043364download.jpg?alt=media&token=8769379d-6e9b-4370-a3bd-cd89b223c7bf",
+        audio: "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1676137335598Arabic-Remix---Khalouni-N3ich-(Yusuf-Eksioglu-Remix)(MrSong.In).mp3?alt=media&token=7aa002e6-298a-4bf2-95f8-7a6e01063323",
+        palette: "yellow",
+        id: uuidv4(),
+    },
+    {
         title: "La Casa De Papel",
         artist: "Cecilia Krull",
         coverUrl:
@@ -190,6 +212,8 @@ const songData = [
         palette: "orange",
         id: uuidv4(),
     },
+   
+    
 ];
 
 export default songData;
