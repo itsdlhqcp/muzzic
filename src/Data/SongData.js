@@ -205,15 +205,112 @@ const songData = [
         title: "League of Legends",
         artist: "Bo Chen",
         coverUrl:
-            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F16753426169721675342328625images%20(3)~2.jpeg?alt=media&token=695705aa-91e8-4200-8242-b151a61016f2",
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1677432164626images%20(5).jpeg?alt=media&token=56214996-0b19-4efd-a7fc-7bf728fee227",
         thumbUrl:
-            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F16753426169721675342328625images%20(3)~2.jpeg?alt=media&token=695705aa-91e8-4200-8242-b151a61016f2",
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1677432164626images%20(5).jpeg?alt=media&token=56214996-0b19-4efd-a7fc-7bf728fee227",
         audio: "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1675342328625League%20of%20Legends%20-%20War%20Song%20Remix%20%20No%20Copyright%20Sounds.mp3?alt=media&token=c4a81c85-8325-4adc-8e6d-05ff77d0a74c",
         palette: "orange",
         id: uuidv4(),
     },
-   
-    
+    {
+        title: "Izmir",
+        artist: "Boss",
+        coverUrl:
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1677431305698download%20(15).jpeg?alt=media&token=86160e6b-df25-4659-8aae-bff06b321749",
+        thumbUrl:
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1677431305698download%20(15).jpeg?alt=media&token=86160e6b-df25-4659-8aae-bff06b321749",
+        audio: "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1677431223430Izmir-Marsi(PaglaSongs).mp3?alt=media&token=7cb850e2-29c1-4d40-824d-9c5ce17b98f7",
+        palette: "brown",
+        id: uuidv4(),
+    },
+    {
+        title: "Avengers",
+        artist: "Boss",
+        coverUrl:
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1677432098473images%20(4).jpeg?alt=media&token=5c40126e-e52b-47bf-8495-d2260cfaff76",
+        thumbUrl:
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1677432098473images%20(4).jpeg?alt=media&token=5c40126e-e52b-47bf-8495-d2260cfaff76",
+        audio: "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1677431716092avengers-theme-song-download.mp3?alt=media&token=2dadd9ea-733a-4598-abb5-b4b2eb3d7808",
+        palette: "red",
+        id: uuidv4(),
+    },
+    {
+        title: "Broken Angel",
+        artist: "Aarash",
+        coverUrl:
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1677432848781images%20(6).jpeg?alt=media&token=db4e832b-304b-4477-a238-e36efba1ccf2",
+        thumbUrl:
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1677432848781images%20(6).jpeg?alt=media&token=db4e832b-304b-4477-a238-e36efba1ccf2",
+        audio: "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1677432635604ARASH%20feat%20HELENA%20-%20Broken%20Angel%20(English%20Hit%20Remix)(DJSathi).mp3?alt=media&token=aed53315-3326-44d4-8c3c-235ede5c2133",
+        palette: "brown",
+        id: uuidv4(),
+    },
+    {
+        title: "Hymn of weekend",
+        artist: "Boss",
+        coverUrl:
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1677433142596download%20(17).jpeg?alt=media&token=4e3c6e92-15f4-46ae-83c2-5b5ea2bcabad",
+        thumbUrl:
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1677433142596download%20(17).jpeg?alt=media&token=4e3c6e92-15f4-46ae-83c2-5b5ea2bcabad",
+        audio: "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1677433102709Hymn-For-The-Weekend(PagalWorldl).mp3?alt=media&token=47bdc540-ade2-449d-9d40-20875e81823d",
+        palette: "pink",
+        id: uuidv4(),
+    },
+    {
+        title: "Dark side",
+        artist: "Boss",
+        coverUrl:
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1677433528181download%20(18).jpeg?alt=media&token=b3ee399f-0336-4832-99b0-5c7bba432d4c",
+        thumbUrl:
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1677433528181download%20(18).jpeg?alt=media&token=b3ee399f-0336-4832-99b0-5c7bba432d4c",
+        audio: "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1677433459034Darkside(PaglaSongs).mp3?alt=media&token=18d5ebbe-721c-4e4e-848d-f277637e1454",
+        palette: "blue",
+        id: uuidv4(),
+    },
+    {
+        title: "Wrinko",
+        artist: "Boss",
+        coverUrl:
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1677433908275download%20(19).jpeg?alt=media&token=41216ff6-6b16-4e7f-a635-923f43202f83",
+        thumbUrl:
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1677433908275download%20(19).jpeg?alt=media&token=41216ff6-6b16-4e7f-a635-923f43202f83",
+        audio: "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1677433765625Warriyo%20-%20Mortals%20(feat.%20Laura%20Brehm)(AllDjsMashup.Com).mp3?alt=media&token=d0633ab3-2544-4c01-9851-3a2a34f7061c",
+        palette: "red",
+        id: uuidv4(),
+    },
+    {
+        title: "Here we go",
+        artist: "Boss",
+        coverUrl:
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1677434249197download%20(20).jpeg?alt=media&token=214de4cd-4cc0-478a-a2a2-46dbe5aeff9c",
+        thumbUrl:
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1677434249197download%20(20).jpeg?alt=media&token=214de4cd-4cc0-478a-a2a2-46dbe5aeff9c",
+        audio: "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1677434205833On-and-On(PaglaSongs).mp3?alt=media&token=62c6a1ff-7edf-4555-9532-54169f91e60c",
+        palette: "orange",
+        id: uuidv4(),
+    },
+    {
+        title: "Wahran",
+        artist: "Boss",
+        coverUrl:
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1677434734533download%20(21).jpeg?alt=media&token=d893c05c-dae3-4bfe-871a-48b5a666c65a",
+        thumbUrl:
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1677434734533download%20(21).jpeg?alt=media&token=d893c05c-dae3-4bfe-871a-48b5a666c65a",
+        audio: "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1677434518728Wahran(PagalWorldl).mp3?alt=media&token=4c6e6696-8e02-446c-935a-0619efc3adef",
+        palette: "orange",
+        id: uuidv4(),
+    },
+    {
+        title: "Welcome to my dark-side",
+        artist: "Boss",
+        coverUrl:
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1677435153333download%20(23).jpeg?alt=media&token=25fafcb8-7e29-4036-8c4b-d32c98e94767",
+        thumbUrl:
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1677435153333download%20(23).jpeg?alt=media&token=25fafcb8-7e29-4036-8c4b-d32c98e94767",
+        audio: "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1677435090626Darkside%20-%20Neoni-(DJMaza).mp3?alt=media&token=fcaeb080-c3ea-45ca-8b73-b238b5e16e36",
+        palette: "orange",
+        id: uuidv4(),
+    },
 ];
 
 export default songData;
