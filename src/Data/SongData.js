@@ -308,7 +308,18 @@ const songData = [
         thumbUrl:
             "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1677435153333download%20(23).jpeg?alt=media&token=25fafcb8-7e29-4036-8c4b-d32c98e94767",
         audio: "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1677435090626Darkside%20-%20Neoni-(DJMaza).mp3?alt=media&token=fcaeb080-c3ea-45ca-8b73-b238b5e16e36",
-        palette: "orange",
+        palette: "black",
+        id: uuidv4(),
+    },
+    {
+        title: "Mockingbird",
+        artist: "Eminem",
+        coverUrl:
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1677945914170download%20(24).jpeg?alt=media&token=e7f96bb0-937e-4ec9-b046-a64526d74c0b",
+        thumbUrl:
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1677945914170download%20(24).jpeg?alt=media&token=e7f96bb0-937e-4ec9-b046-a64526d74c0b",
+        audio: "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1677945914170Mockingbird%20-%20Eminem-(DJMaza).mp3?alt=media&token=f51ce9ed-b3e9-42b4-bf10-03c81e771613",
+        palette: "black",
         id: uuidv4(),
     },
 ];
