@@ -322,6 +322,17 @@ const songData = [
         palette: "black",
         id: uuidv4(),
     },
+    {
+        title: "Tubular Bells",
+        artist: "Mike Oldfield",
+        coverUrl:
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1678127426844download%20(25).jpeg?alt=media&token=c064e3ca-1856-4f92-a302-90ccd1c46607",
+        thumbUrl:
+            "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1678127426844download%20(25).jpeg?alt=media&token=c064e3ca-1856-4f92-a302-90ccd1c46607",
+        audio: "https://firebasestorage.googleapis.com/v0/b/chat-web-app-46b89.appspot.com/o/chat%2F-NN33z-SkMdUFxVLBs8a%2F1678127174004X2Download%20(mp3cut.net)%20(1).mp3?alt=media&token=14d4d015-2ad1-4602-ab0e-a487040ac8d9",
+        palette: "black",
+        id: uuidv4(),
+    },
 ];
 
 export default songData;
